@@ -59,4 +59,4 @@ This repository is licensed under the MIT License. Feel free to use and adapt th
 ## 📧 **Contact**
 For questions or further information, please reach out to:  
 📩 Email: metamath@gmail.com
-🌐 Website: [metamath1.github.io/blog](metamath1.github.io/blog)
+🌐 Website: [https://metamath1.github.io/blog](https://metamath1.github.io/blog)
