@@ -1,0 +1,12 @@
+실행 방법
+1. requirements.txt에 패키지를 모두 설치
+
+2. konlpy splitter 사용한다면(기본 소스에 사용한것으로 되어있음)
+jdk 설치 및 환경변수를 JAVA_HOME=C:\Program Files\Java\jdk-23\bin\server 세팅
+
+3. .env_empty 파일 이름을 .env로 수정하고 openai api key와 huggingface access key를 입력하고 저장
+
+4. ragchatbot.py 소스 파일이 있는 폴더에 uploaded_files 폴더 생성
+
+5. python 가상 환경에서 다음 실행
+   streamlit run ragchatbot.py
