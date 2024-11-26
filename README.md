@@ -29,16 +29,11 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
   Practical usage of ChatGPT and prompt engineering techniques. ChatGPT API의 실제 사용법과 프롬프트 엔지니어링 기법.
 - **LangChain Basics and RAG App Development**  
   Introduction to LangChain and a project for building a Retrieval-Augmented Generation (RAG) application. LangChain 소개 및 검색 증강 세대(RAG) 애플리케이션 구축 프로젝트
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
-    <div style="margin: 10px;">
-      <img src="llm/rag-project/chat_wo_rag.png" alt="without RAG" width="450"/>
-      <p>without RAG</p>
-    </div>
-    <div style="margin: 10px;">
-      <img src="llm/rag-project/chat_rag.png" alt="with RAG" width="450"/>
-      <p>with RAG</p>
-    </div>
-  </div>
+  
+  | without RAG            | RAG                    |
+  |---------------------------|--------------------------------|
+  | ![without RAG](llm/rag-project/chat_wo_rag.png) | ![RAG](llm/rag-project/chat_rag.png) |
+  | 문무대왕함에 대한 잘못된 응답 | pdf 문서를 기반으로 한 문무대왕함에 대한 바른 응답 |
 
 ---
 
@@ -59,7 +54,7 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
  
   | without Prompt            | with Prompt                    |
   |---------------------------|--------------------------------|
-  | ![Base](image-genai/inpaint-project/null_prompt.png) | ![Inpainted](image-genai/inpaint-project/prompt.png) |
+  | ![null prompt](image-genai/inpaint-project/null_prompt.png) | ![prompt](image-genai/inpaint-project/prompt.png) |
   | None |  A small robot, high resolution, sitting on a park bench |
 
 - **Stable Diffusion Fine-Tuning**  
