@@ -58,11 +58,11 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
   - Exploring different 🤗Diffusers pipelines and building an in-painting app project. 다양한 디퓨저 파이프라인을 탐색 및 인페인팅 앱 제작 프로젝트 
     <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
       <div style="margin: 10px;">
-        <img src="image-genai/inpaint-project/null_prompt.png" alt="null prompt" width="450"/>
+        <img src="image-genai/inpaint-project/null_prompt.png" alt="null prompt" width="400"/>
         <p>without prompt</p>
       </div>
       <div style="margin: 10px;">
-        <img src="image-genai/inpaint-project/prompt.png" alt="prompt" width="450"/>
+        <img src="image-genai/inpaint-project/prompt.png" alt="prompt" width="400"/>
         <p>prompt: A small robot, high resolution, sitting on a park bench</p>
       </div>
   </div>
