@@ -56,16 +56,12 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
   - Introducing 🤗Diffusers Library for Image Generation Tasks. 이미지 생성 작업을 위한 디퓨저 라이브러리 소개
   - Training an Image Generation Model with 🤗Diffusers. 디퓨저 라이브러리를 이용한 이미지 생성 모델 학습
   - Exploring different 🤗Diffusers pipelines and building an in-painting app project. 다양한 디퓨저 파이프라인을 탐색 및 인페인팅 앱 제작 프로젝트 
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
-      <div style="margin: 10px;">
-        <img src="image-genai/inpaint-project/null_prompt.png" alt="null prompt" width="300"/>
-        <p>without prompt</p>
-      </div>
-      <div style="margin: 10px;">
-        <img src="image-genai/inpaint-project/prompt.png" alt="prompt" width="300"/>
-        <p>prompt: A small robot, high resolution, sitting on a park bench</p>
-      </div>
-  </div>
+ 
+  | without Prompt            | with Prompt                    |
+  |---------------------------|--------------------------------|
+  | ![Base](image-genai/inpaint-project/null_prompt.png) | ![Inpainted](image-genai/inpaint-project/prompt.png) |
+  | None |  A small robot, high resolution, sitting on a park bench |
+
 - **Stable Diffusion Fine-Tuning**  
   - SD 1.5 Model Full Fine-Tuning 스테이블 디퓨전 1.5 풀 파인튜닝
   - LoRA adapter training using PEFT (Parameter Efficient Fine-Tuning). 스테이블 디퓨전 1.5 LoRA를 이용한 파인튜닝
