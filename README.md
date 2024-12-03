@@ -50,8 +50,19 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
 - **HuggingFace 🤗Diffusers Framework**  
   - Introducing 🤗Diffusers Library for Image Generation Tasks. 이미지 생성 작업을 위한 디퓨저 라이브러리 소개
   - Training an Image Generation Model with 🤗Diffusers. 디퓨저 라이브러리를 이용한 이미지 생성 모델 학습
-  - Exploring different 🤗Diffusers pipelines and building an in-painting app project. 다양한 디퓨저 파이프라인을 탐색 및 인페인팅 앱 제작 프로젝트 
- 
+  - Exploring different 🤗Diffusers pipelines, including the implementation of image2image and inpainting pipeline from scratch. image2image 및 inpainting 파이프라인을 처음부터 구현하는 등 다양한 🤗디퓨저 파이프라인 탐색
+  ### Image-to-Image Example:
+| Input Image and Generated Image           |
+|-------------------------|
+| ![Output](image-genai/diffusers/grid_output_img2img.png) |
+
+### Inpainting Example:
+| Input Image and Generated Image           |
+|-------------------------|
+| ![Output](image-genai/diffusers/grid_output_inpaint.png) |
+  
+  - inpainting app project using 🤗Diffusers and gradio.
+    ### Inpainting Gradio App
   | without Prompt            | with Prompt                    |
   |---------------------------|--------------------------------|
   | ![null prompt](image-genai/inpaint-project/null_prompt.png) | ![prompt](image-genai/inpaint-project/prompt.png) |
