@@ -80,8 +80,14 @@ This content is part of the **Zero to AI Master** program conducted by **Daegu A
 ---
 
 
-## 📝 **License**
-This repository is licensed under the MIT License. Feel free to use and adapt the materials for educational purposes.
+## 📜 License
+
+This project is licensed under the **Non-Commercial Use Only License**. 
+
+### ⚠️ Restrictions
+- **Non-Commercial Use Only**: This software is provided for **personal, educational, and non-commercial purposes only**.
+- **Commercial Use Prohibited**: Commercial use of this software is strictly prohibited without prior written consent from the copyright holder.
+- For inquiries about commercial licensing, please contact **metamath@gmail.com**.
 
 ---
 
